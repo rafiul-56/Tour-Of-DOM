@@ -3,6 +3,7 @@ const placesList = document.getElementById('places-list');
 // 2. what to be added
 const li = document.createElement('li');
 li.innerText = 'pahartoli bon';
+li.innerText = 'sagoltoli bon';
 
 // 3. add the child
 placesList.appendChild(li);
